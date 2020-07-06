@@ -13,7 +13,7 @@ Pitch detection:
 Dynamics detection:
 - Estimate the average time of change in loudness in a given audio file (wav)
 
-#Program
+# Program
 Dependencies
 - Librosa
 - PyTorch
