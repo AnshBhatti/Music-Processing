@@ -1,5 +1,5 @@
 # Music-Processing
-Involves genre classification, tempo estimation/onset detection, pitch detection, and dynamics detection
+Involves genre classification, tempo estimation/onset detection, pitch detection, and dynamics detection. Work in progress.
 
 Genre classification:
 - Classification of audio files (wav) to 10 genres: blues, classical, country, pop, rock, reggae, hiphop, disco, jazz, and metal
